@@ -7,11 +7,11 @@ module.exports = {
   'green-mid': '#CBE4B4',
   'green-light': '#E5F0DB',
 
-  'gray-1': '#1B1D1E',
-  'gray-2': '#333638',
-  'gray-3': '#5C6265',
-  'gray-4': '#B9BBBC',
-  'gray-5': '#DDDEDF',
-  'gray-6': '#EFF0F0',
-  'gray-7': '#FAFAFA',
+  'gray-100': '#1B1D1E',
+  'gray-200': '#333638',
+  'gray-300': '#5C6265',
+  'gray-400': '#B9BBBC',
+  'gray-500': '#DDDEDF',
+  'gray-600': '#EFF0F0',
+  'gray-700': '#FAFAFA',
 }
